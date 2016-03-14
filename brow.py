@@ -1,4 +1,4 @@
-#proxy visitor by salah
+#proxy visitor by salaheddine
 #how to use: python script.py [starting number]
 
 import sys
